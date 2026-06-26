@@ -1,6 +1,6 @@
 # 🚀 Custom GitHub Readme Stats (Self-Hosted)
 
-Dapatkan kartu statistik GitHub yang dinamis, cepat, dan selalu terbarui langsung di profil GitHub Anda! Repositori ini adalah hasil fork dari [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) yang di-deploy secara mandiri (*self-hosted*) untuk performa optimal dan pembaruan data yang cepat.
+Dapatkan kartu statistik GitHub yang dinamis, cepat, dan selalu terbarui langsung di profil GitHub Anda! Repositori ini di-deploy secara mandiri (*self-hosted*) untuk performa optimal dan pembaruan data yang cepat.
 
 > [!TIP]
 > **Kelebihan Instance Ini:**
