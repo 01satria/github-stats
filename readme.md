@@ -1,5 +1,7 @@
 # 🚀 Custom GitHub Readme Stats (Self-Hosted)
 
+<img src="public/image/image.gif" alt="preview" width="800" height="500" />
+
 Dapatkan kartu statistik GitHub yang dinamis, cepat, dan selalu terbarui langsung di profil GitHub Anda! Repositori ini di-deploy secara mandiri (*self-hosted*) untuk performa optimal dan pembaruan data yang cepat.
 
 > [!TIP]
