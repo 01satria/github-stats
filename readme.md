@@ -18,17 +18,15 @@ Cukup salin kode Markdown di bawah ini dan tempelkan di file `README.md` profil 
 Kartu ini menampilkan ringkasan jumlah bintang, komit, pull request, isu, dan kontribusi Anda.
 
 ```markdown
-[![Stats GitHub](https://github-readme-stats-master.vercel.app/api?username=username-anda&show_icons=true&theme=radical)](https://github.com/username-anda)
+[![Stats GitHub](https://statsofgithub.vercel.app/api?username=username-anda&show_icons=true&theme=radical)](https://github.com/username-anda)
 ```
 
 ### 2. Kartu Bahasa Terbanyak (Top Languages Card)
 Kartu ini menampilkan persentase bahasa pemrograman yang paling sering Anda gunakan dalam repositori Anda.
 
 ```markdown
-[![Bahasa Terbanyak](https://github-readme-stats-master.vercel.app/api/top-langs?username=username-anda&layout=compact&theme=radical)](https://github.com/username-anda)
+[![Bahasa Terbanyak](https://statsofgithub.vercel.app/api/top-langs?username=username-anda&layout=compact&theme=radical)](https://github.com/username-anda)
 ```
-
-*(Catatan: Ganti `github-readme-stats-master.vercel.app` dengan domain Vercel hasil deployment Anda yang sebenarnya jika berbeda).*
 
 ---
 
